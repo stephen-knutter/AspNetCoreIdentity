@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp1.1\AspNetCoreIdentity.deps.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp1.1\AspNetCoreIdentity.runtimeconfig.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp1.1\AspNetCoreIdentity.runtimeconfig.dev.json
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp1.1\AspNetCoreIdentity.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp1.1\AspNetCoreIdentity.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp1.1\AspNetCoreIdentity.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp1.1\AspNetCoreIdentity.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp1.1\AspNetCoreIdentity.dll
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp1.1\AspNetCoreIdentity.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
